@@ -1,7 +1,55 @@
+body{
+    text-align: center;
+    background-color: #363636;
+    color: whitesmoke;
+    font-family: monospace;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 16px;
+}
+
 h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #30e7ed;
 }
 
 .myfooter{
-    font-style: normal !important;
+    font-style: italic;
+    color: lightslategray;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    top: 45px;
+    bottom: 800px;
+}
+
+.textbox{
+    width: 1000px;
+    margin: auto;
+    background-color: #363636;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 21px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.smallbox{
+    border: 3px #30e7ed solid;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+.list{
+    text-align: left;
+    margin-left: 150px;
+}
+
+.img{
+    width: 800px;
+    padding: 10px;
+}
+
+a{
+    color: #30e7ed;
 }

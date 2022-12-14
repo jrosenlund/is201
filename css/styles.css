@@ -583,6 +583,8 @@ progress {
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem;
+  font-style: italic;
+  color: #6c757d;
 }
 .blockquote > :last-child {
   margin-bottom: 0;
@@ -11012,7 +11014,7 @@ p a {
   text-decoration: underline;
 }
 
-blockquote {
+.blockquote {
   font-style: italic;
   color: #6c757d;
 }
